@@ -1,5 +1,5 @@
-;
-(function ($) {
+
+
     class Details {
         constructor() {
             //接收sid
@@ -65,5 +65,7 @@
             });
         }
     }
-    new Details().init();
-})(jQuery);
+   
+    export{
+        Details
+    }

@@ -28,7 +28,9 @@
             }
         }
     
-        // new render().init();
+        export {
+            render
+        }
   
    
   
