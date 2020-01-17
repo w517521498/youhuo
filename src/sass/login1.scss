@@ -1,0 +1,458 @@
+@import "compass/reset";
+@import "compass/layout";
+body {
+    font-family: arial,SimHei,sans-serif;
+  };
+.simple-header{
+    height: 66px;
+    margin: 0 0 20px;
+    border-bottom: 2px solid #222;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+        .header-inner{
+            width: 990px;
+            height: 100%;
+            margin: 0 auto;
+            .logo{
+                float: left;
+                line-height: 66px;
+                font-size: 0;
+                text-decoration: none;
+                color: #000; 
+            }
+            .header-tool{
+                float: right;
+                line-height: 66px;
+                font-size: 0;
+                li{
+                    display: inline-block;
+                    padding: 0 9px;
+                    line-height: 28px;
+                }  
+            }
+    }
+}
+.tool-options .tool-options-large{
+    height: 20px;
+}
+.simple-header .header-tool li, .simple-header .header-tool li a, .simple-header .header-tool li span {
+    font-size: 12px;
+    vertical-align: middle;
+    color: #000;
+}
+.simple-header .header-tool .tool-options-large, .simple-header .header-tool .tool-options-large .tool-select {
+    width: 80px;
+    box-sizing: border-box;
+}
+.clearfix:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+.login-box{
+    margin-right: auto;
+    margin-left: auto;
+    width: 1150px;
+    position: relative;
+    height: 620px;
+}
+.desktop-login{
+    width: 270px;
+    height: 499px;
+    float: right;
+     position: absolute;
+    top: 100px;
+    right: 100px;
+}
+.desktop-login li{
+    padding: 20px;
+    list-style: none;
+}
+element.style {
+    font-size: 12px;
+    text-align: center;
+    display: inline-block;
+    width: 990px;
+    height: 25px;
+    background-color: #f5f5f5;
+    line-height: 25px;
+    overflow: hidden;
+}
+.cover {
+    float: left;
+    margin: 107px 0;
+    width: 575px;
+}
+.cover .cover-content {
+    padding: 50px 0;
+    width: 100%;
+    height: 318px;
+    border-right: 1px solid #dfdfdf;
+}
+.cover .cover-img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 252px;
+    height: 190px;
+}
+
+.login-page .content {
+    float: left;
+    margin-top: 107px;
+    padding-left: 85px;
+}
+
+a:focus, input, textarea {
+    outline: none;
+}
+.login-page .switch-login-type {
+    width: 270px;
+    height: 46px;
+    margin-bottom: 25px;
+    background-color: #fff;
+}
+.login-page .login-ul>div>li {
+    margin-bottom: 25px;
+}
+.login-page .switch {
+    width: 100%;
+    height: 27px;
+    border-radius: 13px;
+    font-size: 14px;
+}
+.login-page .switch .left {
+    width: 146px;
+    height: 27px;
+    text-align: center;
+    line-height: 27px;
+    border-radius: 13px;
+    position: absolute;
+    left: 0;
+    cursor: pointer;
+}
+.login-page .switch .right {
+    width: 146px;
+    height: 27px;
+    text-align: center;
+    line-height: 27px;
+    border-radius: 13px;
+    position: absolute;
+    right: 0;
+    cursor: pointer;
+}
+.login-box .input {
+    width: 268px;
+    height: 43px;
+    border: 1px solid #dbdbdb;
+    color: #9a9a9a;
+    color: rgba(0,0,0,.5);
+    text-indent: 10px;
+    font-size: 16px;
+    line-height: 1.2;
+    line-height: 43px\9;
+}
+.login-box .btn {
+    display: block;
+    width: 100%;
+    height: 46px;
+    background-color: #ff1901;
+    color: #fff;
+    text-align: center;
+    letter-spacing: 10px;
+    font-size: 20px;
+    line-height: 46px;
+    cursor: pointer;
+    list-style: none;
+}
+.login-box .other-opts {
+    color: #b9b9b9;
+    font-size: 14px;
+}
+.login-box .right {
+    float: right;
+}
+.login-box .third-party-login a {
+    display: table-cell;
+    width: 67px;
+    background-size: 100% 100%;
+}
+
+
+
+.login-box .relative {
+    position: relative;
+    list-style: none;
+}
+.login-box .captcha-wrap {
+    position: relative;
+}
+
+.login-box.sms-captcha-img-wrap {
+    position: relative;
+}
+.login-box .other-opts {
+    color: #b9b9b9;
+    font-size: 14px;
+}
+.login-box .third-party-login {
+    display: table;
+    width: 100%;
+}
+.login-box .title {
+    float: left;
+    font-size: 20px;
+}
+.login-box .country-code {
+    color: #b9b9b9;
+    cursor: pointer;
+}
+
+.login-box .right {
+    float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+#footer{
+    width: 1903px;;
+    height: 400x;
+    background: #000;
+    margin: 0 auto;
+    .hei1{
+        width: 1150px;
+        height: 60px;
+        margin: 0 auto;
+        // position: absolute;
+        ul{
+            width: 534px;
+            height: 60px;
+            .zhengpin{
+                width:118px;
+                height:32px;
+                margin-right: 60px;
+                line-height: 30px;
+                font-weight: 700;
+                float: left;
+                    .icon{
+                        width: 27px;
+                        height: 30px;
+                    }
+                    .hundred{
+                        color: #e01;
+                        font-size: 12px;
+                    }
+                    .word{
+                        color: #fff;
+                        font-size: 12px;
+                    }
+                }
+            .tuihuo{
+                width:118px;
+                height:32px;
+                margin-right: 60px;
+                line-height: 30px;
+                font-weight: 700;
+                float: left;
+                    .icon{
+                        width: 27px;
+                        height: 30px;
+                    }
+                    .hundred{
+                        color: #e01;
+                        font-size: 12px;
+                    }
+                    .word{
+                        color: #fff;
+                        font-size: 12px;
+                    }
+                 }
+            .zaixian{
+                width:118px;
+                height:32px;
+                margin-right: 60px;
+                line-height: 30px;
+                font-weight: 700;
+                float: left;
+                    .icon{
+                        width: 27px;
+                        height: 30px;
+                    }
+                    .hundred{
+                        color: #e01;
+                        font-size: 12px;
+                    }
+                    .word{
+                        color: #fff;
+                        font-size: 12px;
+                    }
+                }
+        }
+    }
+    .hei2{
+        width: 1150px;
+        height: 151px;
+        padding: 15px 0;
+        margin: 0 auto;
+        border-top: 1px solid #262626;
+        .content{
+            width: 1150px;
+            height: 120px;
+            ul{
+                width: 1265px;
+                height: 120x;
+                    li{
+                        width: 180;
+                        height: 120px;
+                        float: left;
+                        p{  
+                            width: 180px;
+                            line-height: 24px;
+                            span{
+                                font-size: 12px;
+                                color:wheat;
+                            }
+                        }
+
+                    }
+            } 
+        }
+        
+    }
+    .hei3{
+        width: 1150px;
+        height: 124px;
+        background: #000;
+        padding: 10px 0 14px;
+        font-size: 12px;
+        margin: 0 auto;
+        .content1{
+            width: 1150px;
+            height: 60p;
+            line-height: 20px;
+            color: #666;
+            padding-left: 300px;
+            position: relative;
+            .left-pic{
+                width: 268px;
+                height: 40px;
+                margin-top: 3px;
+                position: absolute;
+                left: 0;
+                top: 12px;
+                .link{
+                    display: inline-block;
+                    float: left;
+                    border-radius: 2px;
+                    margin-right: 8px;
+                    background: #fff;
+                    width: 76px;
+                    height: 34px;
+                }
+            }
+            .link{
+                width: 850px;
+                height: 60px;
+                color: #666;
+                // line-height: px;
+                a{
+                    width:100%;
+                    height:14px;
+                    color: #666;
+                    span{
+                        width: 24px;
+                        height: 14px;
+                        padding: 0 10px;
+                    }
+                }
+            }
+        }   
+    }
+    .copyright{
+        width: 1150px;
+        height: 40px;
+        text-align: center;
+        padding-top: 20px;
+        line-height: 20px;
+        p{  
+            color: #666;
+            width: 1150px;
+            height: 20px;
+        }
+    }
+    .hei4{
+        width: 1150px;
+        height: 48px;
+        background: #000;
+        margin:0 auto;
+        .content2{
+            ul{
+                width:1150px;
+                height:48px;
+                margin:0 auto;
+                .friend{
+                    width: 60px;
+                    height: 48px;
+                }
+                .h1{
+                    width: 48px;
+                    height: 14px;
+                }
+                li{
+                    width: 66px;
+                    height:40x;
+                    margin-left: 11px;
+                    float: left;
+                    a{
+                        width: 73px;
+                        height: 14px;
+                        color:#666;
+                        float: left;
+                        font-size: 12px;
+                    }
+                    .huo1{
+                        width: 24px;
+                        height: 14px;
+                    }
+                    .zuoyi{
+                        margin-left: 18px;
+                    }
+                }
+            }   
+        }
+
+        
+            
+    }
+}
+#louti{
+    position: fixed;
+    width: 60px;
+    left: 50%;
+    bottom: 20px;
+    margin-left: 595px;
+    z-index: 4;
+    .return-top{
+        width: 60px;
+        height: 60px;
+        text-align: center;
+        line-height: 50px;
+        color: #fff;
+        background: #000;
+        opacity: .5;
+        cursor: pointer;
+        margin-top: 20px;
+
+    }
+}

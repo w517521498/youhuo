@@ -91,11 +91,6 @@ body {
     width: 80px;
     box-sizing: border-box;
 }
-.simple-header .header-tool .tool-options {
-    position: relative;
-    font-size: 0;
-    cursor: pointer;
-}
 .clearfix:after {
     content: '';
     display: block;

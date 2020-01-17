@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,8 +8,8 @@
     <meta name='description'
         content="【YOHO!BUY有货】，年轻人潮流购物中心，潮流商品购物网站。作为YOHO!旗下的购物平台，汇集了全球潮流时尚商品和国内流行商品，★全场品牌正品保证，支持货到付款★" />
     <meta name='keyword' content="潮流,时尚潮流,潮流服饰,潮流购物网,潮流网站">
-    <link rel="stylesheet" href="../src/stylesheets/login.css">
-    <link rel="stylesheet" href="../src/fonts/font_1607955_feleb9dykyw/iconfont.css">
+    <!-- <link rel="stylesheet" href="../src/stylesheets/login.css">
+    <link rel="stylesheet" href="../src/fonts/font_1607955_feleb9dykyw/iconfont.css"> -->
 </head>
 <body>
     <div class="simple-header">
@@ -20,7 +20,7 @@
                 </a>
             </h2>
             <ul class="header-tool  clearfix">
-                <li><span>Hi~</span>&nbsp;<a href="../src/login.html">[请登录]</a>&nbsp;<a href="../src/registry.html">[免费注册]</a></li>
+                <li><span>Hi~</span>&nbsp;<a href="../dist/login.html">[请登录]</a>&nbsp;<a href="../dist/registry.html">[免费注册]</a></li>
                 <li class="tool-options">
                     <span><a href="#">MY有货</a></span>
                     <span class="iconfont icon-jiantou"></span>
@@ -43,8 +43,8 @@
             </ul>
         </div>
     </div>
-    <div class="login-page passport-page yoho-page clearfix">
-        <div class="passport-cover">
+    <div class="login-box">
+        <div class="cover">
             <div class="cover-content">
                     <a href="#" target="_bank">
                         <img class="cover-img" src="https://img11.static.yhbimg.com/yhb-img01/2020/01/10/16/010249f482e834be7a16c4ed8a2660d5e8.jpg?imageView2/2/w/252/h/190/q/90">
@@ -88,7 +88,7 @@
                 <span class="right">
                     <a class="forget-password" href="#">忘记密码?</a>
                     |
-                    <a class="fast-reg" href="registry.html">快速注册</a>
+                    <a class="fast-reg" href="../dist/registry.html">快速注册</a>
                 </span>
             </li>
 
@@ -260,13 +260,13 @@
             <div class="content1">
                 <div class="left-pic">
                     <a href="#">
-                        <img src="./images/未标题-1.png" alt="">
+                        <img src="../dist/images/未标题-1.png" alt="">
                     </a>
                     <a href="#">
-                        <img src="../src/images/未标题-2.png" alt="">
+                        <img src="../dist/images/未标题-2.png" alt="">
                     </a>
                     <a href="#">
-                        <img src="../src/images/未标题-3.png" alt="">
+                        <img src="../dist/images/未标题-3.png" alt="">
                     </a>
                 </div>
                 <p class="link">
@@ -303,7 +303,7 @@
                     <a href="#">潮流视频</a>
                     <span>|</span>
                     <a class="police" >
-                        <img src="../src/images/未标题-4.png" alt="">
+                        <img src="../dist/images/未标题-4.png" alt="">
                         苏公网安备 32010502010132号</a>
                     <span>|</span>
                     <a target="_blank" href="#" rel="">出版物经营许可证</a>
@@ -343,17 +343,6 @@
             </div>
         </div>
     </div>
-    <!-- <div id="louti">
-        <div class="boxtop">
-        </div>
-        <div class="return-top">
-            <a href="#">
-                <span class="iconfont icon-top"></span>
-            </a>
-        </div>
-    </div> -->
-<script src="script/jquery.js"></script>
-<script src="script/login.js"></script>
-<script src="script/sha1.js"></script>
+<script src="../dist/script/bundle.js" id="login"></script>
 </body>
 </html>

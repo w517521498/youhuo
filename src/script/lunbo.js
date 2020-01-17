@@ -1,11 +1,4 @@
 
-    // function $(selector, all) {
-    //     if (all === true) {
-    //         return document.querySelectorAll(selector);
-    //     } else {
-    //         return document.querySelector(selector);
-    //     }
-    // } 
     class Lunbo{
         constructor(){
             this.datu=document.querySelector('.datu');
@@ -69,7 +62,7 @@
             },3000);
         }
     }
-    // new Lunbo().init();
+  
     export{
         Lunbo
     }

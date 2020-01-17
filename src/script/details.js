@@ -16,7 +16,7 @@
         init() {
             //将接收的sid传给后端。
             $.ajax({
-                url: 'http://10.31.152.47/erjieduan/Project.chenhao/YoHoProject/php/getsid.php',
+                url: 'http://10.31.152.47/youhuo/php/getsid.php',
                 data: {
                     sid: this.sid
                 },

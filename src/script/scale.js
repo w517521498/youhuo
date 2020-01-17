@@ -1,4 +1,4 @@
-! function ($) {
+
     class Fdj {
         constructor() {
             this.wrap = $('.wrap');
@@ -105,6 +105,6 @@
             });
          }
     }
-
-    new Fdj().init();
-}(jQuery);
+    export{
+    Fdj
+    }

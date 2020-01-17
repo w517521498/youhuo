@@ -1,12 +1,14 @@
 import "jquery";
 import "../stylesheets/index.css";
 
+import "../stylesheets/details.css";
+import "../stylesheets/cartlist.css";
+import "../stylesheets/registry.css";
+import "../stylesheets/login1.css";
+
 import{
-    render
+    render 
 }from './index.js';
-import{
-    Lunbo
-}from './lunbo.js';
 import{
     Details
 }from './details';
@@ -16,9 +18,53 @@ import{
 import{
     nav
 }from './nav.js';
+import{
+    registry
+}from './registry.js';
+import{
+    Fdj
+}from './scale.js';
+import{
+    login
+}from './login.js';
+import{
+    success
+}from './success.js';
+import{
+    Cartlist
+}from './Cartlist.js';
+import{
+    Lunbo
+}from './lunbo.js';
 
- new render().init();
- new Lunbo().init();
- new Details().init();
- new louti().init();
- new nav().init();
+
+if($('script').attr('id') == 'index'){
+    new render().init();
+    new louti().init();
+    new Lunbo().init();
+    new nav().init();
+    success();
+}else if($('script').attr('id') == 'details'){
+    new Details().init();
+    new Fdj().init();
+}else if($('script').attr('id') == 'login'){
+    new login().init();
+}
+else if($('script').attr('id') == 'registry'){
+    new registry().init();
+}
+else {
+    new Cartlist().init();
+}
+
+
+
+
+ 
+
+
+ 
+
+
+
+ 

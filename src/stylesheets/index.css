@@ -651,30 +651,26 @@ li {
   margin-bottom: 24px;
 }
 /* line 540, ../sass/index.scss */
-#header .daohang nav .xielv {
-  width: 74px;
-}
-/* line 552, ../sass/index.scss */
 #header .daohang nav .baozhuang {
   width: 74px;
 }
-/* line 555, ../sass/index.scss */
+/* line 543, ../sass/index.scss */
 #header .daohang nav .hang {
   width: 60px;
 }
-/* line 558, ../sass/index.scss */
+/* line 546, ../sass/index.scss */
 #header .daohang nav .sale {
   width: 82px;
 }
-/* line 561, ../sass/index.scss */
+/* line 549, ../sass/index.scss */
 #header .daohang nav .xieyi {
   margin-left: 8px;
 }
-/* line 564, ../sass/index.scss */
+/* line 552, ../sass/index.scss */
 #header .daohang nav .peishi {
   width: 116px;
 }
-/* line 567, ../sass/index.scss */
+/* line 555, ../sass/index.scss */
 #header .daohang nav li {
   width: 100px;
   height: 40px;
@@ -684,7 +680,7 @@ li {
   padding-right: 2px;
   position: relative;
 }
-/* line 575, ../sass/index.scss */
+/* line 563, ../sass/index.scss */
 #header .daohang nav li a {
   color: #fff;
   font-size: 14px;
@@ -693,47 +689,47 @@ li {
   bottom: 6px;
   left: 1px;
 }
-/* line 582, ../sass/index.scss */
+/* line 570, ../sass/index.scss */
 #header .daohang nav li a span {
   width: 56px;
   height: 2px;
   background: white;
   display: none;
 }
-/* line 588, ../sass/index.scss */
+/* line 576, ../sass/index.scss */
 #header .daohang nav li a .liang {
   width: 25px;
   height: 2px;
   background: white;
   position: absolute;
 }
-/* line 595, ../sass/index.scss */
+/* line 583, ../sass/index.scss */
 #header .daohang nav li a .san {
   width: 34px;
   height: 2px;
   background: white;
   position: absolute;
 }
-/* line 602, ../sass/index.scss */
+/* line 590, ../sass/index.scss */
 #header .daohang nav li a .yi {
   width: 10px;
   height: 2px;
   background: white;
   position: absolute;
 }
-/* line 609, ../sass/index.scss */
+/* line 597, ../sass/index.scss */
 #header .daohang nav li a .si {
   width: 60px;
   height: 2px;
   background: white;
   position: absolute;
 }
-/* line 617, ../sass/index.scss */
+/* line 605, ../sass/index.scss */
 #header .daohang nav li .daohang nav li a :hover span {
   display: block;
 }
 
-/* line 624, ../sass/index.scss */
+/* line 612, ../sass/index.scss */
 #header .title .left .left1 {
   width: 346px;
   height: 45px;
@@ -741,7 +737,7 @@ li {
   padding-top: 72px;
   float: left;
 }
-/* line 630, ../sass/index.scss */
+/* line 618, ../sass/index.scss */
 #header .title .left .left1 .boy {
   width: 80px;
   height: 45px;
@@ -750,11 +746,11 @@ li {
   padding-top: 8px;
   text-align: center;
 }
-/* line 638, ../sass/index.scss */
+/* line 626, ../sass/index.scss */
 #header .title .left .left1 .boy h5 a {
   color: #fff;
 }
-/* line 644, ../sass/index.scss */
+/* line 632, ../sass/index.scss */
 #header .title .left .left1 .girl {
   float: left;
   text-align: center;
@@ -763,11 +759,11 @@ li {
   padding-top: 8px;
   text-align: center;
 }
-/* line 652, ../sass/index.scss */
+/* line 640, ../sass/index.scss */
 #header .title .left .left1 .girl h5 a {
   color: #000;
 }
-/* line 657, ../sass/index.scss */
+/* line 645, ../sass/index.scss */
 #header .title .left .left1 .kid {
   width: 76px;
   height: 45px;
@@ -775,11 +771,11 @@ li {
   text-align: center;
   padding-top: 8px;
 }
-/* line 664, ../sass/index.scss */
+/* line 652, ../sass/index.scss */
 #header .title .left .left1 .kid h5 a {
   color: #000;
 }
-/* line 669, ../sass/index.scss */
+/* line 657, ../sass/index.scss */
 #header .title .left .left1 .free {
   width: 110px;
   height: 45px;
@@ -787,17 +783,17 @@ li {
   text-align: center;
   padding-top: 8px;
 }
-/* line 676, ../sass/index.scss */
+/* line 664, ../sass/index.scss */
 #header .title .left .left1 .free h5 a {
   color: #000;
 }
 
-/* line 682, ../sass/index.scss */
+/* line 670, ../sass/index.scss */
 #banner {
   height: 510px;
   background: red;
 }
-/* line 686, ../sass/index.scss */
+/* line 674, ../sass/index.scss */
 #banner .datu {
   width: 1150px;
   height: 450px;
@@ -805,7 +801,7 @@ li {
   position: relative;
   margin: 0 auto;
 }
-/* line 695, ../sass/index.scss */
+/* line 683, ../sass/index.scss */
 #banner .datu #left {
   position: absolute;
   top: 50%;
@@ -818,7 +814,7 @@ li {
   background: #fff;
   opacity: .55;
 }
-/* line 707, ../sass/index.scss */
+/* line 695, ../sass/index.scss */
 #banner .datu #right {
   position: absolute;
   top: 50%;
@@ -832,11 +828,11 @@ li {
   background: #fff;
   opacity: .55;
 }
-/* line 720, ../sass/index.scss */
+/* line 708, ../sass/index.scss */
 #banner .datu .bpic {
   position: relative;
 }
-/* line 722, ../sass/index.scss */
+/* line 710, ../sass/index.scss */
 #banner .datu .bpic li {
   position: absolute;
   top: 0;
@@ -844,13 +840,13 @@ li {
   opacity: 0;
   transition: all 2s;
 }
-/* line 728, ../sass/index.scss */
+/* line 716, ../sass/index.scss */
 #banner .datu .bpic li img {
   width: 1150px;
   height: 450px;
   display: block;
 }
-/* line 736, ../sass/index.scss */
+/* line 724, ../sass/index.scss */
 #banner .xiaotu {
   width: 1148px;
   height: 54px;
@@ -859,14 +855,14 @@ li {
   padding-left: 2px;
   margin-left: 0px;
 }
-/* line 743, ../sass/index.scss */
+/* line 731, ../sass/index.scss */
 #banner .xiaotu .spic {
   width: 1148px;
   height: 54px;
   background: #ccc;
   float: left;
 }
-/* line 748, ../sass/index.scss */
+/* line 736, ../sass/index.scss */
 #banner .xiaotu .spic li {
   width: 139px;
   height: 54px;
@@ -875,16 +871,16 @@ li {
   float: left;
 }
 
-/* line 759, ../sass/index.scss */
+/* line 747, ../sass/index.scss */
 #renqi {
   height: 658px;
   background: white;
 }
-/* line 763, ../sass/index.scss */
+/* line 751, ../sass/index.scss */
 #renqi .tou {
   position: relative;
 }
-/* line 766, ../sass/index.scss */
+/* line 754, ../sass/index.scss */
 #renqi .tou .hezi {
   position: absolute;
   top: 80px;
@@ -895,13 +891,13 @@ li {
   text-align: center;
   line-height: 32px;
 }
-/* line 777, ../sass/index.scss */
+/* line 765, ../sass/index.scss */
 #renqi .rq {
   width: 1150px;
   height: 502px;
   float: left;
 }
-/* line 781, ../sass/index.scss */
+/* line 769, ../sass/index.scss */
 #renqi .rq li {
   width: 186px;
   height: 246px;
@@ -909,22 +905,22 @@ li {
   padding-bottom: 8px;
   float: left;
 }
-/* line 788, ../sass/index.scss */
+/* line 776, ../sass/index.scss */
 #renqi .rq .guodong {
   width: 378px;
   height: 246px;
 }
 
-/* line 794, ../sass/index.scss */
+/* line 782, ../sass/index.scss */
 #youxuan {
   height: 616px;
   background: pink;
 }
-/* line 798, ../sass/index.scss */
+/* line 786, ../sass/index.scss */
 #youxuan .tou {
   position: relative;
 }
-/* line 801, ../sass/index.scss */
+/* line 789, ../sass/index.scss */
 #youxuan .tou .hezi {
   position: absolute;
   top: 80px;
@@ -935,13 +931,13 @@ li {
   text-align: center;
   line-height: 32px;
 }
-/* line 812, ../sass/index.scss */
+/* line 800, ../sass/index.scss */
 #youxuan .banner1 {
   width: 1150px;
   height: 176px;
   overflow: hidden;
 }
-/* line 816, ../sass/index.scss */
+/* line 804, ../sass/index.scss */
 #youxuan .banner1 .lun1 {
   width: 2316px;
   height: 176px;
@@ -949,13 +945,13 @@ li {
   animation: bannerMove 1.5s linear infinite normal;
   animation-delay: 1.5s;
 }
-/* line 824, ../sass/index.scss */
+/* line 812, ../sass/index.scss */
 #youxuan .banner1 .lun1 li {
   width: 378px;
   height: 176px;
   float: left;
 }
-/* line 830, ../sass/index.scss */
+/* line 818, ../sass/index.scss */
 #youxuan .banner1 .lun1 .middle1 {
   padding: 0 8px;
 }
@@ -967,18 +963,18 @@ li {
     margin-left: -1150px;
   }
 }
-/* line 849, ../sass/index.scss */
+/* line 833, ../sass/index.scss */
 #youxuan .paizi {
   width: 1200px;
   height: 276px;
 }
-/* line 852, ../sass/index.scss */
+/* line 836, ../sass/index.scss */
 #youxuan .paizi ul {
   width: 100%;
   height: 276px;
   margin-top: 6px;
 }
-/* line 856, ../sass/index.scss */
+/* line 840, ../sass/index.scss */
 #youxuan .paizi ul li {
   width: 186px;
   height: 86px;
@@ -986,16 +982,16 @@ li {
   margin: 8px 7px 0 0;
 }
 
-/* line 866, ../sass/index.scss */
+/* line 850, ../sass/index.scss */
 #chaoliu-shang {
   height: 974px;
   background: purple;
 }
-/* line 870, ../sass/index.scss */
+/* line 854, ../sass/index.scss */
 #chaoliu-shang .tou {
   position: relative;
 }
-/* line 873, ../sass/index.scss */
+/* line 857, ../sass/index.scss */
 #chaoliu-shang .tou .hezi {
   position: absolute;
   top: 80px;
@@ -1006,39 +1002,39 @@ li {
   text-align: center;
   line-height: 32px;
 }
-/* line 883, ../sass/index.scss */
+/* line 867, ../sass/index.scss */
 #chaoliu-shang .tou .more {
   position: absolute;
   padding: 10px 0;
   top: 78px;
   right: 0;
 }
-/* line 890, ../sass/index.scss */
+/* line 874, ../sass/index.scss */
 #chaoliu-shang .shang {
   width: 1200px;
   height: 508px;
 }
-/* line 893, ../sass/index.scss */
+/* line 877, ../sass/index.scss */
 #chaoliu-shang .shang ul {
   width: 1150px;
   height: 508px;
   float: left;
 }
-/* line 897, ../sass/index.scss */
+/* line 881, ../sass/index.scss */
 #chaoliu-shang .shang ul li {
   width: 188px;
   height: 250px;
   float: left;
   margin: 6px 4px 0 0;
 }
-/* line 902, ../sass/index.scss */
+/* line 886, ../sass/index.scss */
 #chaoliu-shang .shang ul li .yufulan {
   height: 228px;
   padding: 10px 0;
   background-color: #f8f8f8;
   overflow: hidden;
 }
-/* line 907, ../sass/index.scss */
+/* line 891, ../sass/index.scss */
 #chaoliu-shang .shang ul li .yufulan a {
   float: left;
   width: 50%;
@@ -1049,32 +1045,32 @@ li {
   color: #000;
   overflow: hidden;
 }
-/* line 919, ../sass/index.scss */
+/* line 903, ../sass/index.scss */
 #chaoliu-shang .shang ul .zhong {
   width: 376px;
   height: 250px;
 }
-/* line 922, ../sass/index.scss */
+/* line 906, ../sass/index.scss */
 #chaoliu-shang .shang ul .zhong img {
   width: 376px;
   height: 250px;
 }
-/* line 927, ../sass/index.scss */
+/* line 911, ../sass/index.scss */
 #chaoliu-shang .shang ul #lazy {
   margin-top: 4   px;
 }
-/* line 932, ../sass/index.scss */
+/* line 916, ../sass/index.scss */
 #chaoliu-shang .xia {
   width: 1150px;
   height: 328px;
 }
-/* line 935, ../sass/index.scss */
+/* line 919, ../sass/index.scss */
 #chaoliu-shang .xia ul {
   width: 100%;
   height: 306px;
   margin-top: 8px;
 }
-/* line 939, ../sass/index.scss */
+/* line 923, ../sass/index.scss */
 #chaoliu-shang .xia ul li {
   width: 222px;
   height: 298px;
@@ -1082,16 +1078,16 @@ li {
   padding: 8px 6px 0 0;
 }
 
-/* line 948, ../sass/index.scss */
+/* line 932, ../sass/index.scss */
 #chaoliu-xia {
   height: 974px;
   background: purple;
 }
-/* line 952, ../sass/index.scss */
+/* line 936, ../sass/index.scss */
 #chaoliu-xia .tou {
   position: relative;
 }
-/* line 955, ../sass/index.scss */
+/* line 939, ../sass/index.scss */
 #chaoliu-xia .tou .hezi {
   position: absolute;
   top: 80px;
@@ -1102,38 +1098,38 @@ li {
   text-align: center;
   line-height: 32px;
 }
-/* line 965, ../sass/index.scss */
+/* line 949, ../sass/index.scss */
 #chaoliu-xia .tou .more {
   position: absolute;
   padding: 10px 0;
   top: 78px;
   right: 0;
 }
-/* line 972, ../sass/index.scss */
+/* line 956, ../sass/index.scss */
 #chaoliu-xia .shang {
   width: 1200px;
   height: 508px;
 }
-/* line 975, ../sass/index.scss */
+/* line 959, ../sass/index.scss */
 #chaoliu-xia .shang ul {
   width: 1150px;
   height: 508px;
 }
-/* line 978, ../sass/index.scss */
+/* line 962, ../sass/index.scss */
 #chaoliu-xia .shang ul li {
   width: 188px;
   height: 250px;
   float: left;
   margin: 6px 4px 0 0;
 }
-/* line 983, ../sass/index.scss */
+/* line 967, ../sass/index.scss */
 #chaoliu-xia .shang ul li .yufulan {
   height: 228px;
   padding: 10px 0;
   background-color: #f8f8f8;
   overflow: hidden;
 }
-/* line 988, ../sass/index.scss */
+/* line 972, ../sass/index.scss */
 #chaoliu-xia .shang ul li .yufulan a {
   float: left;
   width: 50%;
@@ -1144,32 +1140,32 @@ li {
   color: #000;
   overflow: hidden;
 }
-/* line 1000, ../sass/index.scss */
+/* line 984, ../sass/index.scss */
 #chaoliu-xia .shang ul .zhong {
   width: 376px;
   height: 250px;
 }
-/* line 1003, ../sass/index.scss */
+/* line 987, ../sass/index.scss */
 #chaoliu-xia .shang ul .zhong img {
   width: 376px;
   height: 250px;
 }
-/* line 1008, ../sass/index.scss */
+/* line 992, ../sass/index.scss */
 #chaoliu-xia .shang ul #lazy {
   margin-top: 4   px;
 }
-/* line 1013, ../sass/index.scss */
+/* line 997, ../sass/index.scss */
 #chaoliu-xia .xia {
   width: 1150px;
   height: 328px;
 }
-/* line 1016, ../sass/index.scss */
+/* line 1000, ../sass/index.scss */
 #chaoliu-xia .xia ul {
   width: 100%;
   height: 306px;
   margin-top: 8px;
 }
-/* line 1020, ../sass/index.scss */
+/* line 1004, ../sass/index.scss */
 #chaoliu-xia .xia ul li {
   width: 222px;
   height: 298px;
@@ -1177,16 +1173,16 @@ li {
   padding: 8px 6px 0 0;
 }
 
-/* line 1029, ../sass/index.scss */
+/* line 1013, ../sass/index.scss */
 #fashion {
   height: 974px;
   background: peru;
 }
-/* line 1033, ../sass/index.scss */
+/* line 1017, ../sass/index.scss */
 #fashion .tou {
   position: relative;
 }
-/* line 1036, ../sass/index.scss */
+/* line 1020, ../sass/index.scss */
 #fashion .tou .hezi {
   position: absolute;
   top: 80px;
@@ -1197,38 +1193,38 @@ li {
   text-align: center;
   line-height: 32px;
 }
-/* line 1046, ../sass/index.scss */
+/* line 1030, ../sass/index.scss */
 #fashion .tou .more {
   position: absolute;
   padding: 10px 0;
   top: 78px;
   right: 0;
 }
-/* line 1053, ../sass/index.scss */
+/* line 1037, ../sass/index.scss */
 #fashion .shang {
   width: 1200px;
   height: 508px;
 }
-/* line 1056, ../sass/index.scss */
+/* line 1040, ../sass/index.scss */
 #fashion .shang ul {
   width: 1150px;
   height: 508px;
 }
-/* line 1059, ../sass/index.scss */
+/* line 1043, ../sass/index.scss */
 #fashion .shang ul li {
   width: 188px;
   height: 250px;
   float: left;
   margin: 6px 4px 0 0;
 }
-/* line 1064, ../sass/index.scss */
+/* line 1048, ../sass/index.scss */
 #fashion .shang ul li .yufulan {
   height: 228px;
   padding: 10px 0;
   background-color: #f8f8f8;
   overflow: hidden;
 }
-/* line 1069, ../sass/index.scss */
+/* line 1053, ../sass/index.scss */
 #fashion .shang ul li .yufulan a {
   float: left;
   width: 50%;
@@ -1239,32 +1235,32 @@ li {
   color: #000;
   overflow: hidden;
 }
-/* line 1081, ../sass/index.scss */
+/* line 1065, ../sass/index.scss */
 #fashion .shang ul .zhong {
   width: 376px;
   height: 250px;
 }
-/* line 1084, ../sass/index.scss */
+/* line 1068, ../sass/index.scss */
 #fashion .shang ul .zhong img {
   width: 376px;
   height: 250px;
 }
-/* line 1089, ../sass/index.scss */
+/* line 1073, ../sass/index.scss */
 #fashion .shang ul #lazy {
   margin-top: 4   px;
 }
-/* line 1094, ../sass/index.scss */
+/* line 1078, ../sass/index.scss */
 #fashion .xia {
   width: 1150px;
   height: 328px;
 }
-/* line 1097, ../sass/index.scss */
+/* line 1081, ../sass/index.scss */
 #fashion .xia ul {
   width: 100%;
   height: 306px;
   margin-top: 8px;
 }
-/* line 1101, ../sass/index.scss */
+/* line 1085, ../sass/index.scss */
 #fashion .xia ul li {
   width: 222px;
   height: 298px;
@@ -1272,16 +1268,16 @@ li {
   padding: 8px 6px 0 0;
 }
 
-/* line 1110, ../sass/index.scss */
+/* line 1094, ../sass/index.scss */
 #chaomen {
   height: 974px;
   background: indianred;
 }
-/* line 1114, ../sass/index.scss */
+/* line 1098, ../sass/index.scss */
 #chaomen .tou {
   position: relative;
 }
-/* line 1117, ../sass/index.scss */
+/* line 1101, ../sass/index.scss */
 #chaomen .tou .hezi {
   position: absolute;
   top: 80px;
@@ -1292,38 +1288,38 @@ li {
   text-align: center;
   line-height: 32px;
 }
-/* line 1127, ../sass/index.scss */
+/* line 1111, ../sass/index.scss */
 #chaomen .tou .more {
   position: absolute;
   padding: 10px 0;
   top: 78px;
   right: 0;
 }
-/* line 1134, ../sass/index.scss */
+/* line 1118, ../sass/index.scss */
 #chaomen .shang {
   width: 1200px;
   height: 508px;
 }
-/* line 1137, ../sass/index.scss */
+/* line 1121, ../sass/index.scss */
 #chaomen .shang ul {
   width: 1150px;
   height: 508px;
 }
-/* line 1140, ../sass/index.scss */
+/* line 1124, ../sass/index.scss */
 #chaomen .shang ul li {
   width: 188px;
   height: 250px;
   float: left;
   margin: 6px 4px 0 0;
 }
-/* line 1145, ../sass/index.scss */
+/* line 1129, ../sass/index.scss */
 #chaomen .shang ul li .yufulan {
   height: 228px;
   padding: 10px 0;
   background-color: #f8f8f8;
   overflow: hidden;
 }
-/* line 1150, ../sass/index.scss */
+/* line 1134, ../sass/index.scss */
 #chaomen .shang ul li .yufulan a {
   float: left;
   width: 50%;
@@ -1334,32 +1330,32 @@ li {
   color: #000;
   overflow: hidden;
 }
-/* line 1162, ../sass/index.scss */
+/* line 1146, ../sass/index.scss */
 #chaomen .shang ul .zhong {
   width: 376px;
   height: 250px;
 }
-/* line 1165, ../sass/index.scss */
+/* line 1149, ../sass/index.scss */
 #chaomen .shang ul .zhong img {
   width: 376px;
   height: 250px;
 }
-/* line 1170, ../sass/index.scss */
+/* line 1154, ../sass/index.scss */
 #chaomen .shang ul #lazy {
   margin-top: 4   px;
 }
-/* line 1175, ../sass/index.scss */
+/* line 1159, ../sass/index.scss */
 #chaomen .xia {
   width: 1150px;
   height: 328px;
 }
-/* line 1178, ../sass/index.scss */
+/* line 1162, ../sass/index.scss */
 #chaomen .xia ul {
   width: 100%;
   height: 306px;
   margin-top: 8px;
 }
-/* line 1182, ../sass/index.scss */
+/* line 1166, ../sass/index.scss */
 #chaomen .xia ul li {
   width: 222px;
   height: 298px;
@@ -1367,17 +1363,17 @@ li {
   padding: 8px 6px 0 0;
 }
 
-/* line 1191, ../sass/index.scss */
+/* line 1175, ../sass/index.scss */
 #newthing {
   height: 4348px;
   background: lightblue;
   position: relative;
 }
-/* line 1196, ../sass/index.scss */
+/* line 1180, ../sass/index.scss */
 #newthing .tou {
   position: relative;
 }
-/* line 1199, ../sass/index.scss */
+/* line 1183, ../sass/index.scss */
 #newthing .tou .hezi {
   position: absolute;
   top: 80px;
@@ -1388,29 +1384,29 @@ li {
   text-align: center;
   line-height: 32px;
 }
-/* line 1210, ../sass/index.scss */
+/* line 1194, ../sass/index.scss */
 #newthing .xuan {
   width: 1152px;
   height: 4028px;
 }
-/* line 1213, ../sass/index.scss */
+/* line 1197, ../sass/index.scss */
 #newthing .xuan ul {
   width: 1152px;
   height: 4028px;
 }
-/* line 1216, ../sass/index.scss */
+/* line 1200, ../sass/index.scss */
 #newthing .xuan ul li {
   width: 222px;
   height: 356px;
   float: left;
   padding: 0 8px 52px 0;
 }
-/* line 1222, ../sass/index.scss */
+/* line 1206, ../sass/index.scss */
 #newthing .xuan ul li a img {
   width: 222px;
   height: 298px;
 }
-/* line 1226, ../sass/index.scss */
+/* line 1210, ../sass/index.scss */
 #newthing .xuan ul li a h4 {
   width: 100%;
   height: 18px;
@@ -1423,7 +1419,7 @@ li {
   font-size: 12px;
   text-align: center;
 }
-/* line 1238, ../sass/index.scss */
+/* line 1222, ../sass/index.scss */
 #newthing .xuan ul li a p {
   width: 100%;
   height: 22px;
@@ -1432,7 +1428,7 @@ li {
   font-size: 12px;
   text-align: center;
 }
-/* line 1250, ../sass/index.scss */
+/* line 1234, ../sass/index.scss */
 #newthing .hezi1 {
   position: absolute;
   top: 4274px;
@@ -1445,25 +1441,25 @@ li {
   height: 35px;
 }
 
-/* line 1262, ../sass/index.scss */
+/* line 1246, ../sass/index.scss */
 #footer {
   width: 1903px;
   height: 400x;
   background: #000;
   margin: 0 auto;
 }
-/* line 1267, ../sass/index.scss */
+/* line 1251, ../sass/index.scss */
 #footer .hei1 {
   width: 1150px;
   height: 60px;
   margin: 0 auto;
 }
-/* line 1272, ../sass/index.scss */
+/* line 1256, ../sass/index.scss */
 #footer .hei1 ul {
   width: 534px;
   height: 60px;
 }
-/* line 1275, ../sass/index.scss */
+/* line 1259, ../sass/index.scss */
 #footer .hei1 ul .zhengpin {
   width: 118px;
   height: 32px;
@@ -1472,22 +1468,22 @@ li {
   font-weight: 700;
   float: left;
 }
-/* line 1282, ../sass/index.scss */
+/* line 1266, ../sass/index.scss */
 #footer .hei1 ul .zhengpin .icon {
   width: 27px;
   height: 30px;
 }
-/* line 1286, ../sass/index.scss */
+/* line 1270, ../sass/index.scss */
 #footer .hei1 ul .zhengpin .hundred {
   color: #e01;
   font-size: 12px;
 }
-/* line 1290, ../sass/index.scss */
+/* line 1274, ../sass/index.scss */
 #footer .hei1 ul .zhengpin .word {
   color: #fff;
   font-size: 12px;
 }
-/* line 1295, ../sass/index.scss */
+/* line 1279, ../sass/index.scss */
 #footer .hei1 ul .tuihuo {
   width: 118px;
   height: 32px;
@@ -1496,22 +1492,22 @@ li {
   font-weight: 700;
   float: left;
 }
-/* line 1302, ../sass/index.scss */
+/* line 1286, ../sass/index.scss */
 #footer .hei1 ul .tuihuo .icon {
   width: 27px;
   height: 30px;
 }
-/* line 1306, ../sass/index.scss */
+/* line 1290, ../sass/index.scss */
 #footer .hei1 ul .tuihuo .hundred {
   color: #e01;
   font-size: 12px;
 }
-/* line 1310, ../sass/index.scss */
+/* line 1294, ../sass/index.scss */
 #footer .hei1 ul .tuihuo .word {
   color: #fff;
   font-size: 12px;
 }
-/* line 1315, ../sass/index.scss */
+/* line 1299, ../sass/index.scss */
 #footer .hei1 ul .zaixian {
   width: 118px;
   height: 32px;
@@ -1520,22 +1516,22 @@ li {
   font-weight: 700;
   float: left;
 }
-/* line 1322, ../sass/index.scss */
+/* line 1306, ../sass/index.scss */
 #footer .hei1 ul .zaixian .icon {
   width: 27px;
   height: 30px;
 }
-/* line 1326, ../sass/index.scss */
+/* line 1310, ../sass/index.scss */
 #footer .hei1 ul .zaixian .hundred {
   color: #e01;
   font-size: 12px;
 }
-/* line 1330, ../sass/index.scss */
+/* line 1314, ../sass/index.scss */
 #footer .hei1 ul .zaixian .word {
   color: #fff;
   font-size: 12px;
 }
-/* line 1337, ../sass/index.scss */
+/* line 1321, ../sass/index.scss */
 #footer .hei2 {
   width: 1150px;
   height: 151px;
@@ -1543,33 +1539,33 @@ li {
   margin: 0 auto;
   border-top: 1px solid #262626;
 }
-/* line 1343, ../sass/index.scss */
+/* line 1327, ../sass/index.scss */
 #footer .hei2 .content {
   width: 1150px;
   height: 120px;
 }
-/* line 1346, ../sass/index.scss */
+/* line 1330, ../sass/index.scss */
 #footer .hei2 .content ul {
   width: 1265px;
   height: 120x;
 }
-/* line 1349, ../sass/index.scss */
+/* line 1333, ../sass/index.scss */
 #footer .hei2 .content ul li {
   width: 180;
   height: 120px;
   float: left;
 }
-/* line 1353, ../sass/index.scss */
+/* line 1337, ../sass/index.scss */
 #footer .hei2 .content ul li p {
   width: 180px;
   line-height: 24px;
 }
-/* line 1356, ../sass/index.scss */
+/* line 1340, ../sass/index.scss */
 #footer .hei2 .content ul li p span {
   font-size: 12px;
   color: wheat;
 }
-/* line 1367, ../sass/index.scss */
+/* line 1351, ../sass/index.scss */
 #footer .hei3 {
   width: 1150px;
   height: 124px;
@@ -1578,7 +1574,7 @@ li {
   font-size: 12px;
   margin: 0 auto;
 }
-/* line 1374, ../sass/index.scss */
+/* line 1358, ../sass/index.scss */
 #footer .hei3 .content1 {
   width: 1150px;
   height: 60p;
@@ -1587,7 +1583,7 @@ li {
   padding-left: 300px;
   position: relative;
 }
-/* line 1381, ../sass/index.scss */
+/* line 1365, ../sass/index.scss */
 #footer .hei3 .content1 .left-pic {
   width: 268px;
   height: 40px;
@@ -1596,7 +1592,7 @@ li {
   left: 0;
   top: 12px;
 }
-/* line 1388, ../sass/index.scss */
+/* line 1372, ../sass/index.scss */
 #footer .hei3 .content1 .left-pic .link {
   display: inline-block;
   float: left;
@@ -1606,25 +1602,25 @@ li {
   width: 76px;
   height: 34px;
 }
-/* line 1398, ../sass/index.scss */
+/* line 1382, ../sass/index.scss */
 #footer .hei3 .content1 .link {
   width: 850px;
   height: 60px;
   color: #666;
 }
-/* line 1403, ../sass/index.scss */
+/* line 1387, ../sass/index.scss */
 #footer .hei3 .content1 .link a {
   width: 100%;
   height: 14px;
   color: #666;
 }
-/* line 1407, ../sass/index.scss */
+/* line 1391, ../sass/index.scss */
 #footer .hei3 .content1 .link a span {
   width: 24px;
   height: 14px;
   padding: 0 10px;
 }
-/* line 1416, ../sass/index.scss */
+/* line 1400, ../sass/index.scss */
 #footer .copyright {
   width: 1150px;
   height: 40px;
@@ -1632,43 +1628,43 @@ li {
   padding-top: 20px;
   line-height: 20px;
 }
-/* line 1422, ../sass/index.scss */
+/* line 1406, ../sass/index.scss */
 #footer .copyright p {
   color: #666;
   width: 1150px;
   height: 20px;
 }
-/* line 1428, ../sass/index.scss */
+/* line 1412, ../sass/index.scss */
 #footer .hei4 {
   width: 1150px;
   height: 48px;
   background: #000;
   margin: 0 auto;
 }
-/* line 1434, ../sass/index.scss */
+/* line 1418, ../sass/index.scss */
 #footer .hei4 .content2 ul {
   width: 1150px;
   height: 48px;
   margin: 0 auto;
 }
-/* line 1438, ../sass/index.scss */
+/* line 1422, ../sass/index.scss */
 #footer .hei4 .content2 ul .friend {
   width: 60px;
   height: 48px;
 }
-/* line 1442, ../sass/index.scss */
+/* line 1426, ../sass/index.scss */
 #footer .hei4 .content2 ul .h1 {
   width: 48px;
   height: 14px;
 }
-/* line 1446, ../sass/index.scss */
+/* line 1430, ../sass/index.scss */
 #footer .hei4 .content2 ul li {
   width: 66px;
   height: 40x;
   margin-left: 11px;
   float: left;
 }
-/* line 1451, ../sass/index.scss */
+/* line 1435, ../sass/index.scss */
 #footer .hei4 .content2 ul li a {
   width: 73px;
   height: 14px;
@@ -1676,17 +1672,17 @@ li {
   float: left;
   font-size: 12px;
 }
-/* line 1458, ../sass/index.scss */
+/* line 1442, ../sass/index.scss */
 #footer .hei4 .content2 ul li .huo1 {
   width: 24px;
   height: 14px;
 }
-/* line 1462, ../sass/index.scss */
+/* line 1446, ../sass/index.scss */
 #footer .hei4 .content2 ul li .zuoyi {
   margin-left: 18px;
 }
 
-/* line 1473, ../sass/index.scss */
+/* line 1457, ../sass/index.scss */
 #louti {
   position: fixed;
   width: 60px;
@@ -1695,7 +1691,7 @@ li {
   margin-left: 595px;
   z-index: 4;
 }
-/* line 1480, ../sass/index.scss */
+/* line 1464, ../sass/index.scss */
 #louti .return-top {
   width: 60px;
   height: 60px;

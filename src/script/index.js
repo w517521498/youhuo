@@ -1,12 +1,11 @@
 
-
         class render {
             constructor() {
                 this.xuan = $('.xuan');
             }
             init() {
                 $.ajax({
-                    url: 'http://10.31.152.47/erjieduan/Project.chenhao/YoHoProject/php/danpin.php',
+                    url: 'http://10.31.152.47/youhuo/php/danpin.php',
                     dataType: 'json'
                 }).done((data) => {
                     console.log(data);

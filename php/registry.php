@@ -15,7 +15,7 @@ if(isset($_POST['username'])){
 
 if(isset($_POST['submit'])){
     $username=$_POST['username'];
-    $password=sha1($_POST['password']);
+    $password=$_POST['password'];
 
 
     $conn->query("insert user values(null,'$username','$password',NOW()) ");
